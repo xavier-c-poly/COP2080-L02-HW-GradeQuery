@@ -3,7 +3,8 @@
 #
 
 # Use a dictionary named 'grades' to track student grades.
-# code grades: dict = {}
+# code
+grades: dict = {}
 
 
 # Loop until the user chooses to quit.
